@@ -14,3 +14,4 @@ Make a copy from the link
 - Open file from Links section
 - Make a copy
 - Open you GAS editor
+- Change ssID variable to your SpreadSheetId
